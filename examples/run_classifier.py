@@ -54,7 +54,7 @@ def main():
     parser = argparse.ArgumentParser()
 
     ## Required parameters
-    parser.add_argument("",
+    parser.add_argument("data",
                         default=None,
                         type=str,
                         required=True,
@@ -68,7 +68,7 @@ def main():
                         type=str,
                         required=True,
                         help="The name of the task to train.")
-    parser.add_argument("--output_dir",
+    parser.add_argument("",
                         default=None,
                         type=str,
                         required=True,
