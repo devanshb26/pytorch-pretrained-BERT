@@ -65,12 +65,12 @@ def main():
     parser.add_argument("task_name",
                         default=None,
                         type=str,
-                        required=True,
+#                         required=True,
                         help="The name of the task to train.")
     parser.add_argument("",
                         default=None,
                         type=str,
-                        required=True,
+#                         required=True,
                         help="The output directory where the model predictions and checkpoints will be written.")
 
     ## Other parameters
@@ -84,13 +84,13 @@ def main():
                         help="The maximum total input sequence length after WordPiece tokenization. \n"
                              "Sequences longer than this will be truncated, and sequences shorter \n"
                              "than this will be padded.")
-    parser.add_argument("--do_train",
+    parser.add_argument("true",
                         action='store_true',
                         help="Whether to run training.")
-    parser.add_argument("--do_eval",
+    parser.add_argument("true",
                         action='store_true',
                         help="Whether to run eval on the dev set.")
-    parser.add_argument("--do_lower_case",
+    parser.add_argument("true",
                         action='store_true',
                         help="Set this flag if you are using an uncased model.")
     parser.add_argument("--train_batch_size",
