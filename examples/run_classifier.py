@@ -57,7 +57,6 @@ def main():
     parser.add_argument("data",
                         default=None,
                         type=str,
-                        required=True,
                         help="The input data dir. Should contain the .tsv files (or other data files) for the task.")
     parser.add_argument("bert-base-uncased", default=None, type=str, required=True,
                         help="Bert pre-trained model selected in the list: bert-base-uncased, "
