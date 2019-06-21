@@ -1,0 +1,833 @@
+0,0,enable live traffic aware app
+1,1,try format like bold italic shadow distinguish title subtitle content
+2,1,computer invent save time suggest allow upload zip file use numbering file portal place right order
+3,1,allow rearrange user want change
+4,1,add simd instruction good use arm neon instruction math game
+5,1,use hot swap code generator optimize machine code like hotspot java helpful mitigate slow c code
+6,1,microsoft seriously look rid symantec payment stuff
+7,1,extremely useful variety app type notify start end event able check device use phonecall
+8,1,like informatin certification process dev center app
+9,1,nice glance app feature market
+10,1,fun record featured market date
+11,1,progressr control available windows phone like win8
+12,1,great os second etc nfc record try trigger success
+13,1,need application mobile platform able read datum separate ndef record contain ndef message
+14,1,provide process class api like regular windows develop low level operation like task manager windows
+15,1,add possibility set price market distribution trial mode existence individually xap
+16,0,add ability memory profiling background agent periodic limit memory hard catch memory leak
+17,0,use .net access library microsoft advise .net app native code winrt component
+18,0,limit artifically like native developer
+19,1,page template update use medium sized semibold font default title text
+20,1,task base operation code clean readable
+21,1,add boolean cameracapturetask indicate want save picture save camera roll
+22,1,expose etw log namespace like system diagnostic event possible log event window 8 app
+23,0,currently way advantage direct manipulation xaml windows store app use scrollviewer
+24,1,instead chart style list popular app display phone create new form distribution result randomize time user look marketplace
+25,1,highly rat app appear near appear frequently rating app dwindle
+26,1,good app game chance decent exposure chart wait feature worth
+27,1,maybe think way reward user time actually try app review
+28,1,great able use wp8 emulator surface emulator matter mobility demonstration i.e. deliver dynamics crm demo nearly want include mobility scenario screen rest demo
+29,0,allow seamless migration new hardware
+30,1,like ask microsoft tool(option emulator screenshot emulator produce screenshot resolution language support app
+31,0,run emulator screenshot close run
+32,1,sharpdx prove key technology available csharp suggest support project provide interface
+33,1,natural allow physical search key activate search function active application load bing rarely goal
+34,1,associate bind object data template implicitly type instead explicitly template
+35,0,information datum binding
+36,1,wp8 add optional support hook hardware key press event lens plug feature ... hardware key include vol+ vol- stage 1 light press camera shutter stage 2 deep press camera shutter
+37,1,application problem problem detect advance developer publication correction version client know happen possible microsoft implement communication resource developer customer instal application
+38,1,read write accsess email sync setting enable application create custom sync profile base week day time position etc
+39,1,impossible connect easily ftp network suggest include future sdk
+40,1,hope microsoft open asia voice function fast
+41,1,need support special multitasking task like voip im
+42,1,add possibility add spell check service provide datum system wide exist
+43,1,microsoft create incentive like free device blackberry free year membership amazon drive lot developer platform crucial platform
+44,1,nice gesture option wich left handed people scroll content
+45,1,great able emulator location datum use nmea file format file import export use file directly feed
+46,1,currently pin album useful pin single image tile .. way easy access
+47,1,user able review people country
+48,1,app synchronize connect network sporadically handy easy way detect cheap connection wifi connect device connect web usb
+49,1,suggestion add property like iswificonnect iscableconnected devicenetworkinformation execute fast
+50,1,developer good explanation wrong enforce good design
+51,1,app long 2 3 second start need explain longer
+52,1,provide api forwarding management functions(hold unholdswapconferenceetc
+53,1,user like able select song device library wake
+54,1,idea actually developer scroll faster subsequent scroll like 5 scroll scroll speed increase ..
+55,1,addition user able scree shot multitask area use finger gesture drag app towarda screen screen capture icon appear outer edge icon fill green onve edge completly green photograph noise occur allow sudden screen flare tell user screen shot save save image folder
+56,1,need ability developer add relevant tag app description need ability search app tag tag verify app submission ensure relevant
+57,1,pleasant main page app marketplace general présentation screenshot user review
+58,1,allow user send video audio picture mms pic support
+59,1,allow access raw datum signal strength imformation allow creation indoor location positioning use available wifi bluetooth cellular network gps data available
+60,1,window phone sell hot country like india browser start display indian language character
+61,1,smart dialer alternative build phone app app quick button goto regular phone app user want
+62,1,alternative write access calendar hard security reason let open appointment directly calendar app
+63,0,signal strength directly impact video playback experience
+64,0,reuse operating system component save development effort ensure look expect operating system evolf
+65,0,ask request clear happen
+66,0,window u ui app service app host locally iis express use local debug use
+67,0,new approach develop applicaiton simlifie ui development developer rid learn technology like java scriptangularjquerystyle sheet n number script
+68,0,typical problem deployment(installationupdate ui application client machine simplify process deployment like rule ui app obfuscate executable file depend reference …
+69,0,bonus point xaml standard compliant
+70,0,addition allow great prominence xaml standard great acceptance market medium
+71,0,require developer use background task builder background trigger activate app background
+72,0,control offer hour minute second selection helpful
+73,0,add collectionviewsource function pointer group object propertypath
+74,0,datepickerflyout date way bind update target source source target
+75,0,function fallbackvalue use x bind time parameter match exactly
+76,0,playback seamlessly medium
+77,0,control visualize editing network graph flow chart
+78,0,leave
+79,0,sense idle task suspend busy
+80,0,task busy work idle task suspend mean battery usage kind opposite want
+81,0,microsoft want build connected app project rome api
+82,0,15063 extend brush xamlcompositionbrushbase
+83,0,annoy development solution 4 target platform
+84,0,want drag drop file able path file store disk access use standard c++ io file access function fopen fread etc
+85,0,want use xaml look complicated look like reduce performance 3d heavy directx base application need performance
+86,0,example drag drop bmp image app compress save png image automatically folder
+87,0,dual screen google card glass fulfill function application attractive
+88,0,wanna commuicate app desktop
+89,0,uwp wpf application
+90,0,test uwp mode use dxgi_swap_effect_flip_discard result slow win32/winapi
+91,0,astc great good quality small size look like lot format option choose want
+92,0,pretty sure new treeview fall creators update dependent
+93,0,map unusable phone 10.0.15063 update
+94,0,resolvecomplet event come second
+95,0,line traffic layer blur jagged look bad
+96,0,nice look uwp ui suit create ui heavy classic application think visualstudio autocad blender lobs lot datum want use tablet phone
+97,0,isv uwp app feature spend time try new feature insider customer tester use got feedback
+98,0,currently assign binding visualstate setter resolve value binding assign target like assign bind
+99,0,allow design implementation change binding depend state help state binding require temporarily set x null performance handy complex screen
+100,0,entry add registry client access interface
+101,0,example let want create shorthand align control inside relativepanel fully horizontal like alignhorizontalwithpanel
+102,0,allows desktop app incrementally adopt ui innovation create bridge uwp app ui
+103,0,try converted app use ime
+104,0,want improve support google ime
+105,0,think difficult cortana pc support 13 language list https://support.microsoft.com/en-us/instantanswers/557b5e0e-0eb0-44db-87d6-5e5db6f9c5b0/cortana-s-regions-and-language
+106,0,verify camerastreamcorrelation sample
+107,0,follow stream available pc
+108,0,follow stream available xbox
+109,0,plan support skeleton tracking xbox
+110,0,shame new kinect driver expose kinect api exposurecontrol mark support kinect
+111,0,libfreenect2 library entirely possible tell kinect auto exposure
+112,0,expect content set directly text persist close application
+113,0,runtime crash compiler clearly know flag warning error
+114,0,xbox dev mode companion work ipv6 ...
+115,1,smooth update code uwp app like xaml app automatically reload shut relaunch
+116,0,xaml designer visual studio windows 7
+117,0,control allow use contact picker allow manual entry deletion contact
+118,0,user sense consistency file picker remember location user navigate generally start location
+119,0,good solution example pretend uwp app ask user select picture music file
+120,0,migrate app windows desktop use core audio api uwp use hopefully audiograph
+121,0,explore forward uwp currently way access pipeline add custom shader model like virtual earth microsoft mappoint graphics3d.graphicsengine3d microsoft mappoint rendering3d.scene step
+122,0,develop java application interop c kinda tricky interop shell32 api c library pretty easy straightforward jna
+123,0,difficult create custom richeditbox basic feature like text formatting bullets number support inking like onenote support adaptive layout work basic text editing
+124,0,create app use face detection
+125,0,mkv service server video reproduce connection onedrive lose
+126,0,stop way
+127,0,chinese italian support ask
+128,0,case access error occur time open file open correctly
+129,0,want solution
+130,0,change loggingchannel possibly default manifest code handle string message change 15043
+131,0,fwiw preview version window post anniversary update message correctly
+132,0,like implicit datatemplates uwp
+133,0,currently input plain text toast notification input type support password
+134,0,developer need good deep understanding ui virtualization work uwp app
+135,0,currently use pivot 3rd party vendor provide tabcontrol
+136,0,convert wpf app uwp miss report control
+137,1,open base class inheritance provide sample create custom virtualizing panel
+138,0,uwp toy customization require app deploy completely separately
+139,0,relevant desktop uwp app
+140,0,provide solution
+141,0,use media phone playing groove 24/7
+142,0,panorama control good control app user love
+143,0,update app uwp possible control
+144,0,currently way prevent menuflyout close user click item
+145,0,sure bug set arg cancel closing event work
+146,1,support transaction uwp platform windows runtime api file
+147,0,example quick touch stroke scroll immediately
+148,0,long list view bore scroll maximum scroll speed
+149,0,keyboard home end key scroll touch screen capability
+150,0,library fairly low level
+151,0,concept painfully evident use microsoft 's edge browser want browse favorites menu
+152,0,specifically excellent mouse support mean menu support hover action menus currently enjoy win32 application
+153,0,current situation require mouse click accomplish thing simple hover
+154,0,know component look like
+155,0,happen need control store list page element look like pivot control infinite list page element
+156,0,try find way excel access sql server compact edition
+157,0,application request secret api key need system provide secure storage
+158,0,release appx secret key inside key windows store server key request server application install
+159,0,advantage developer preview design mode
+160,0,idea try button sample
+161,0,button generate ready use visual studio project current sample
+162,0,animate gif disappear application minimiz restore
+163,0,allow user select item drag resize
+164,0,currently store app work desktop app cause great deal confusion
+165,0,need reason need improve software user
+166,0,developer want create custom picker like date time picker
+167,0,scroll point
+168,0,xaml page button command bar button access key set
+169,0,work port app calculate md5 checksum file
+170,0,enterprise developer advent big data believe seadragon pivotviewer binary port wpf uwp app need tool
+171,0,prepare custom control scrollviewer look feel nice
+172,0,microsoft loose huge market support net standard
+173,0,evidently mediacomposition saveasync api internally use storageapplicationpermission futureaccesslist api limitation 1000 item
+174,0,add 1000 clip create mediaclip createfromimagefileasync api fail exception
+175,0,item remove item add
+176,0,additional information maximum number item access list reach
+177,0,case app instal sd card notification use custom audio file default notification sound play instead custom audio file
+178,0,end developer use workaround simulate old behavior
+179,0,app list w10 simulate old behavior instead default
+180,0,use fm radio headphone plug
+181,0,reply message etc
+182,0,know possible moment specially hardware limitation guy work surface phone bring visual studio huge
+183,0,problem output port enumerate uwp api midi port define setup
+184,0,reaper desktop program display proper
+185,0,include windows.h generate compile warning extra
+186,0,user happy :)
+187,0,hololens let render 2 backbuffers(stereoscopic hard know output correct emulator frame
+188,0,bug uwp special character interpret letter use multi layered keyboard layout like german neo2 layout
+189,0,total annoyance work datum require handling lot special charecter like json xml datum
+190,0,look forward progress :d
+191,0,project rome discover device connect launch app leverage app service consent establish
+192,0,feature implement accessory api restrict smart watch maker
+193,0,allow know additional awesome feature
+194,0,windows display language computer set en app developer app problem solution write english
+195,0,functionality common music app google play store apple store blackberry world
+196,0,case app port uwp platform come posix linux network api bsd socket complex network communication library use support network orient functionality
+197,0,currently network data flow boroken app background screen switch
+198,0,app purchase available windows store business
+199,0,channel accessible current audiograph api 's
+200,0,support linux think windows gain support
+201,0,dac folder
+202,0,hello dev team
+203,0,app setting disabled swipe open swipe detection area wider user 's phone close screen edge difficult
+204,0,way swap style xaml rsourcedictionary file and/or piece …
+205,0,feedback appreciate thank john
+206,0,xaml app detect equivalent winrt api js app
+207,0,html perfectly fine windows 10 windows 10 mobile
+208,0,information xaml control contain complex attribute property
+209,0,opinion feature fundamental important new feature appear regularly
+210,0,accord documentation proper way handle input store app create coreindependentinputsource thread swapchainpanel createcoreindependentinputsource
+211,0,device touch input suffer bug come weak gpu
+212,0,devs chose low responsiveness low performance
+213,0,application exit ..
+214,1,api allow color pixel pointer eventually throttle async pointer capture increase expressiveness creation tool uwp application
+215,0,manually list easily manage dashboard status properly reflect
+216,0,current status ‘ progress’ app store
+217,0,perf counter difficult associate specific application require request queue httplistener netsh find url group id use correlation
+218,0,research audioframeoutputnode strange generate audioframe audio datum audioframe 's duration property 0 milisecond relativetime property
+219,0,example user send feedback ask windows 8.1 rt version app focus windows 10 need clear read feedback roadmap
+220,0,age rating questionnaire stop submit press submit
+221,0,example application node internal medium network line audiobus ios
+222,0,extrapolate capability audio allow fly add remove interconnectable reroutable audio node virtual interface device apps devices attach instead attach hardware interface
+223,0,video desktop window screen capture breeze naturally handle os allow creation virtual screen resource permitting course desktop expansion mirroring output video input record app usb3 dlna receiver screen
+224,0,allow user os detach app medium output default interface audio midi card screen window attach app device input
+225,0,exchange app review
+226,0,like ease app recommend app
+227,0,largely ignore past minimal find good success hammer
+228,0,personally 2 3 day different source email address
+229,0,remove support email webpage hinder user windows store app
+230,0,1 user lunch view sensitive document
+231,0,switch email app application detect active state change auto log
+232,0,finish food leave forget phone table
+233,0,point perpetrator able phone open recent app section whatev client look
+234,0,2 user desktop observe file app inactive minimiz
+235,0,begin timer auto log
+236,0,perpetrator able hover taskbar item screen draw user log
+237,0,sorry sound bitter frustrating develop w10 mobile moment good review chance display store slim version fragmentation
+238,0,understand insider review slow ring remove bad delete permanently developer dashboard
+239,0,people time write thoughtful review simply delete
+240,0,start continually download review report record
+241,0,4 star review simply disappear
+242,0,point insider bring rating app os blame .... people rat people fast insider ring extremely hard review
+243,0,old windows phone 8.1 retain status highly rat
+244,0,point rule mean review point people post review
+245,0,sure good solution cold allow 3 review fast insider guess skew review positively
+246,0,let text review stand rating count
+247,0,accurately impression app review feasible
+248,0,caller require permission perform operation
+249,0,iot introduce windows system processlauncher start arbitrary program like process start .net
+250,0,note execute dns client service crash
+251,0,comment textattributes line note service crash
+252,0,bind ispaneopen splitview property viewmodel
+253,0,work nicely splitview overlay mode user press hardware button phone
+254,0,case splitviewpane close expect seemingly overwrite binding ispaneopen instead set directly value false
+255,0,effect panel open code set vm property true binding lose
+256,0,practical term force ui technology diversion implement new functionality
+257,0,xaml look tempting option useful mobile web need control usually implement javascript
+258,0,application architectural level port winforms html js favour entirely new application follow understood accept architectural pattern implement old functionality
+259,0,imagine app question write ex employee 2008 vb.net deep domain knowledge targeting user similar domain knowledge specialist task design documentation description manual process replace
+260,0,norm ... wrong 's
+261,0,budget assign place use 10 people busy
+262,0,architectural barrier killler believe feature gdi+ express html
+263,0,ui adhere good gui design principal performance suck probably
+264,0,user start look act arcane control
+265,0,architecture modern html5 appliication common gdi+ windows message loop xaml
+266,0,thing like redux essentially way like message loop avoid race condition async operation
+267,0,microsoft believe solve massive developer stumble block allow winforms control potentially integrate html ui 's
+268,0,imagine app question write …
+269,0,microsoft finally develop library able handle nfc device
+270,0,unfortunately library able ndef message uid card
+271,0,reason uid save proximity device nfc card read
+272,0,similar property uwp 's api
+273,0,reproduce mobile build 14393 system
+274,0,currently way attach debugger run process attach process mobile
+275,0,bad bug like deadlock happen
+276,0,real pain investigate usually happen debugger release build
+277,0,windows 10 mobile like box access
+278,0,frankly speak surprised beginning
+279,0,happen real user attendance trigger useless
+280,0,wm5/6 unattended power state situation way detect real user interaction device
+281,0,current behavior systemtrigger useraway userpresent unexpected
+282,0,phone sleep screen turn
+283,0,event occur sms incoming toast
+284,0,usernotificationchangedtrigger fire
+285,0,userpresent trigger fire
+286,0,short timeout screen
+287,0,personal favourite mobile file open picker app suspend debug
+288,0,sort surprise happen complex app
+289,0,uwp currentculture reflect regional settings format currentuiculture reflect display language
+290,0,shouln't relly workaround like https://www.pedrolamas.com/2015/11/02/cultureinfo-changes-in-uwp/
+291,0,lot like facebook messenger 's chat head
+292,0,thing
+293,0,find phonetriggertype enum include useful trigger trigger receive
+294,0,torch api work lumia window phone 8.1 support lumia 830640 ...
+295,0,currently uwp readable grayscale font smoothing
+296,0,uwp app look bad desktop app standard dpi screen
+297,0,compass getdefault return null compass stop work app
+298,0,solve need restart phone
+299,0,following msdn magazine article mention limit voice command deffiniton file
+300,0,use windows sapi intensively application build grammar easily big limit impose cortana
+301,0,bit tricky port recognition engine application away sapi cortana sapi provide powerful capability large set command
+302,0,unfortunately know uri cookie track single domain visit currently
+303,0,clear cookies
+304,0,api 5 minute write save lot coding
+305,0,secondary deleteallcookie clearcookies api reason need think use case retrieve cookie
+306,0,happy way
+307,0,user interaction depend
+308,0,search windows 10 success
+309,0,similar accomplish pre
+310,0,use win ce ms grant access source code
+311,0,pedestrianfeaturesvisible toggle mapstyle set road
+312,0,currently use controlchanneltrigger httpclient send https request application terminate system
+313,0,test use https surprise work debugger attach exception throw implement
+314,0,termination occur application connect debugger
+315,0,audiograph create custom desiredsamplesperquantum ignore use default 10ms quantum
+316,0,depend hardware hear gap right start need load cpu additional work like scroll ui run work background thread
+317,0,guess result extremely short quantum size 10ms switch thread time low buffer length 2 quant synchronization issue
+318,0,slider render extreme right value 100 instead zero
+319,0,app use custom title bar extend view title bar area
+320,0,use code like allow custom element support dragging window
+321,0,implement pre anniversary update
+322,0,work fine bug introduce anniversary update title bar return zero height systemoverlayrightinset systemoverlayleftinset
+323,0,confirm pre anniversary update property return value like 32 height 188 systemoverlayrightinset
+324,0,use file type filter sense pick folder menion documentation
+325,0,suppose app mode like zune normal mini
+326,0,mini mode app present indispensable small element window
+327,0,know maybe microsoft 's priority list believe available
+328,0,nice
+329,0,like build universal windows app
+330,0,moment possible install application install directory file alter application
+331,0,application copy file application datum folder installation work delete original file installation folder version
+332,0,anniversary update store default rating current version
+333,0,annoying developer good populair app
+334,0,potential user view store likely judgement download base number review quality review especially window store total number download
+335,0,app publisher reason app update absolute minimum order rating possible
+336,0,30 day
+337,0,want know custom title bar look exactly defult control
+338,0,able systemaccentbrush actual window title bar 's color becouse depend accent color setting
+339,0,ask forum find detailed description issue
+340,0,mi classify direction
+341,0,p.s know post library windows medium ocr namespace medium
+342,0,use resource datatemplate work fine
+343,0,upgrade anniversary instal new sdk tools new visual studio update work expect
+344,0,crash instantiation viewmodel object null bindings update definitely case previous version surely expected behavior
+345,0,replace x bind bind run use datatemplate multiple object example gridview resource value instance pointless
+346,0,app poor startup perf ngen
+347,0,store app standard background ngen work wpf app
+348,0,like recent change dev center
+349,0,cumulative acquisition specify time hard compare app people like app available long course cumulative acquisition high
+350,0,able app time frustrating
+351,0,currently sample
+352,0,simple clickonce publishing
+353,0,want convert msi
+354,0,right new devcenter offer ability sort app included markets base price modify
+355,0,definition serialdevice
+356,0,order break code 's dependency actual hardware automate test reinvent wheel
+357,0,interface internal force create interface create wrapper serialdevice implement
+358,0,lot code write interface exist
+359,0,application open office document programmatically background link appear quick access area file explorer
+360,0,good thing need share user
+361,0,enable custom provider realtime etw trace page windows device portal detail timestamp event
+362,0,use perfview work great event detail payload keyword level etc
+363,0,hop use portal realtime monitoring appear work correctly
+364,1,allow developer create custom keyboard
+365,1,immediate approval possible app publish immediately available
+366,0,windows app store category tremendous potential interact request conent consumer content provider lack interaction exciting
+367,0,work ... header group display
+368,1,phone accurate location simply return
+369,0,friend create app win windows hackathon hold microsoft cyprus
+370,0,far tell combination splitview pane pivot problem
+371,0,submit word game apple app store
+372,0,neglect suggestion copy
+373,0,way pay 3g/4 g wifi network cable etc
+374,0,method remove attendee crash
+375,0,send mail
+376,1,option sdk installer tools
+377,0,currently possible try add custom header content use code
+378,1,available developer kenya
+379,1,consider security issue uwp application feel address
+380,0,good regard leo
+381,0,sure relevance
+382,0,work location base app
+383,0,use mapicon user current location
+384,0,want allow user drag mapicon event
+385,0,create login page find place focus user field header textbox add additional box field indicate focus
+386,0,password box field focus occur
+387,0,webview lack support manipulation event act huge gesture eater let parent control like scrollviewer flipview control gesture like scroll swipe etc
+388,0,impossible use webview xaml element view
+389,0,selectionmode listview hard know item focus
+390,0,set item focus hard
+391,0,good way let know :)
+392,0,way find feel bit clumsy
+393,0,work check device family
+394,0,modern winrt network api base streamsocket correspond streamsocketcontrol provide option enable tcp timestamp support
+395,0,future proof
+396,0,yes know c++ developer use traditional winsock api setsockopt need tie old self manage thread model pleasing
+397,0,rfc7323 tell story great detail
+398,0,app store live tile clock
+399,0,check multiple clock tile app store fundamental issue
+400,0,blank app logo tile tile notification refresh
+401,0,like htc ship windows phones
+402,1,effort minimize overhead system setting allow select clock app run
+403,0,right create isolated environment fail installer
+404,0,able run converter build 14316 14352
+405,0,build 14383 error
+406,0,clean un install app level reset
+407,0,people launch app file want strong experience people find file let file type association work
+408,0,fta 's mean user changeable
+409,0,currently request server check certificate extract public key verify ok
+410,0,currently access handshake httpclient ssl pinning verification
+411,0,scratch head wonder enable verbose msbuild output
+412,0,specify layoutfile appxpackagefilelist miss file copy skip output occur
+413,0,vsdproj extension immediately load value project property window packagelayout text box change configuration current value
+414,0,web view support ms appdata:///local uri rendr image web page host instal location
+415,0,gatt notification arrive sensor
+416,0,30 second
+417,0,want tag location gps long lock
+418,0,virtually impossible tell pay pay app iaps
+419,0,reserve update daily actual number pay
+420,1,example 800 reserve need way know expect 500 pay rest hold
+421,0,uwp provide couple option access file folder
+422,0,unfortunately access guarantee storagefile storagefolder
+423,0,hard port exist code intensively use api
+424,0,right attempt use win32 stdio result permission deny total nonsense basically ok api option dare try use classical
+425,0,possible continuous deployment process platform
+426,0,public reason window dev platform good
+427,0,currently customize titlebar background foreground border
+428,0,storagefile like launch explorer display file
+429,0,need access file 's storagefold pass launchfolderasync
+430,0,use raspberry pi nxp nfc modul 7120
+431,0,card standard possible
+432,0,company public services use encrypted card use key read datum card id confidential datum
+433,0,server cloud backend product
+434,0,costumer run different version backend software
+435,0,sole purpose use sfb limit app user install
+436,0,actually list instal app useless terrible app time
+437,0,xaml support ink user handwrite directly textbox use ink convert automatically text
+438,0,demo'd app build 2016 event london
+439,0,actually initially construct msi place folder document folder centennial install vfs\ ....
+440,0,hard user find kind folder
+441,0,add screenshot
+442,0,install android app
+443,0,promotional code allow owner pay aplication store 0
+444,0,discount code important marketing wich overlook store
+445,0,currently app developer submit update exsit lob app update bypass business store app automaticallyupdat
+446,0,enterprise control updated app deploy user i.e conflict update etc
+447,1,support hybrid html5 cordova ... application windows mobile
+448,0,rdlc report viewer report designer winform app easy way job
+449,0,deploy sample code phone(arm).it throw exception
+450,0,sample code onedrive
+451,0,thread msdn form
+452,0,try open file file type association link filetype file access open file app scenario
+453,0,way grant file folder permission folder picker default folder parameter
+454,0,terrible app
+455,0,currently possible use winium possible use winappdriver
+456,0,file explorer device portal let look .dat file localsettings roamedsettings store way edit
+457,0,ssml fully support
+458,0,user occasionally experience freeze current high datum volume c .net app believe garbage collection
+459,0,c++ mean drop productivity developer
+460,1,temperature datum device portal
+461,0,user expect window maximize
+462,0,sense phone tablet mode desktop dedicated use device limitation
+463,0,iot support single app affect windows 10 mobile
+464,0,issue like hard use uwp business use case
+465,0,uwp win32 basic requirement
+466,0,try build solution base windows mobile run single assigned access app
+467,0,use fiddler desktop view network traffic
+468,0,run converter powershell finish work report problem
+469,0,work run state complete log
+470,0,attempt choose recent compatible version
+471,0,instrument implement api soap linux present wcf service
+472,1,unfortunately create uwp app support custom wcf bind need talk instrument
+473,0,love
+474,0,centennial cmd line argument ...
+475,0,appx shortcut support command line argument
+476,0,sure right place makeappx commando like .rels'-xml file add vs15 setup
+477,0,run multiple time yout find reason crash errors time .rels file
+478,1,like user right review developer able respond review submit store
+479,1,user plan opt response developer email user response allow response publicly visible
+480,0,needless current implementation exploit submit false review allow developer respond
+481,0,application insight mobile discontinue soon dev center analytic break
+482,0,actually exception throw uwp api painfully awful
+483,0,stacktrace error occur approximative vague exception
+484,0,understand unnecessary javascript winrt insanely complex design ... ...
+485,0,exception reason ... error occur message
+486,0,cordova plugin admob windows phone 8 plugin adcontrol specific mediation cordova
+487,0,admob release windows phone 10 support roadmap
+488,0,smaato support w10 plugin develop
+489,0,help bring app windows phone windows universal platform
+490,0,system diagnostic process start(path path point folder html file txt file etc result
+491,0,solution find use startinfo explorer.exe filename path argument
+492,0,soemth wrong late build currently workong 14322.1000 pick file folder app crash
+493,0,return second remain inresponsive
+494,0,evertying work right build user report problem
+495,0,debug click suspend app vs hang phone likely restart
+496,0,today handler newwindowrequest create new window way handle window.close javascript example
+497,0,uwp single page app webview control
+498,0,app activate webview control focus receive correspond event content webview eg html focus document.hasfocus remain false
+499,0,user click html document.hasfocus true webview receive lostfocus event
+500,0,expected behaviour webview focus sync document.hasfocus
+501,0,base image run sort firstrun setup everytime centennial installation execute
+502,1,good firstrun setup apply base setup
+503,1,print function uwp webview control
+504,0,problem :1 mediaplayer class play audio delay 1 2s
+505,0,2 audio file length 1 2 play
+506,0,research decompile app find use mediaplayer class play audio filethen write demo problem occur
+507,0,evidence prove
+508,0,great appreciate help vote microsoft aware fix itit important learn english look vocabulary frequently daily life
+509,0,thank
+510,0,currently use codedui testing framework allow logon ie different user password
+511,0,site test use windows authentication asp.net impersonation run intranet
+512,0,use basic authentication pass credential url
+513,0,mean force use codedui framework
+514,0,windows app store category tremendous potential interact request
+515,0,scenario red integral identity
+516,0,user ask transparent tile include primary tile
+517,0,leave bad place sacrifice branding provide require functionality
+518,1,propose solution independent color setting store specific branding
+519,0,currently support unicode
+520,0,simple test code use korean language
+521,0,exception raise
+522,0,look .appx new installation mechanism saner version app installation application allow good
+523,0,example interactive screen sharing app
+524,0,far know possible centennial exist today kind app valuable
+525,0,centennial big step like
+526,0,12 month
+527,0,style target fonticon control setter fontfamily
+528,0,open source platform ionic market place think great
+529,0,exist couple uwp library purpose beautifully design app implement material design principle framework
+530,0,uielement clip accept rectanglegeometry uwp application
+531,0,uwp app splash screen transparent background color declare app manifest desktop render accent color phone render background color
+532,0,belong india want register self microsoft developer
+533,0,need pay life time registration fee
+534,0,try pay fee option payment credit card
+535,0,option
+536,0,credit card unable payment
+537,0,thing credit card minor reason unable payment
+538,0,game release steam valve promote game free display 1 mln user
+539,0,earlier option cumulative download app way total number app download till date
+540,0,report specially know user update specific version app
+541,0,computer need tool phone deployment winappdeploycmd
+542,0,code machine need tool
+543,0,copy tool separately 106 mb
+544,0,work fine header library instal
+545,0,feature usefull message app
+546,0,right place report bug microsoft
+547,0,need bug report new ideas
+548,0,administrator list bug consider exist security issue exploit present feel free categorize fit
+549,0,malicious party use url location like control webauthenticationbroker authenticate phish credential user process user understand url process load content authentication workflow validate authenticity
+550,0,context step understand use exploit process
+551,0,creativity come
+552,1,work pass user real sign page good simply set cookie user 's session ok
+553,0,9 rule planet earth new find power ok :)
+554,0,reference base thread start msdn forum additional information
+555,0,thank consideration
+556,1,add developer revenue iap price info response allow developer receive accurate datum income request period
+557,0,sid group user
+558,0,company want control access user active directory
+559,0,enterprise application use information user access
+560,0,help
+561,0,isv live united states
+562,0,want set app price dev center offer dolloar base price
+563,0,previous version dev center able set local currency
+564,0,degrade
+565,0,usd familiar
+566,0,use different local currency basically
+567,0,conversion list usd local currency
+568,0,microsoft change conversion rate foreign exchange conversion rate
+569,0,hard find expect price local currency
+570,0,conversion rate constant hard find expect price
+571,0,certificate user storage app storage issuer subject different eku field
+572,0,certificate user storage filter interested
+573,0,need check instal function check return false end instal new time
+574,0,duplicate list
+575,0,today ui designer work parse node
+576,0,currently rate review user submit win10 insider preview disable later
+577,0,devs respond review delete
+578,0,ridiculous behavior user devs
+579,0,ms disable rate review send win10 ip disallow user rate review
+580,0,improvements windows store app game visibility
+581,0,currently possible export app download statistic automatically api windows dev center
+582,0,currently microsoft specific support beacon
+583,0,beacon generation ruler market
+584,0,window developer good future window
+585,0,contact manufacturer beacon basically hesitate support window limitation window featurest
+586,0,don;t separate library beacon
+587,0,beacon consider normal bluetooth device
+588,0,currently read limitation communicate
+589,0,big drawback
+590,0,expect solve window 10
+591,0,till client company leave window ios android
+592,0,continue window face huge drawback
+593,0,raise question relate community forum
+594,0,input
+595,0,sure guy look quickly
+596,0,look sure priority
+597,0,windows wing currently cut area
+598,0,wpf use texture pattern app background tilebrush class
+599,0,imagebrush inherit tilebrush miss property tile
+600,0,window form easy user print dialog code printer output use specific paper bin
+601,0,functionality miss uwp
+602,0,application user print check share check printer check stock tray 4
+603,0,700 user 52 site work fine vb6 16 year
+604,0,want upgrade application modern environment find uwp wpf hard leave winforms
+605,0,right register forever
+606,0,example pro extension stand usually good version app developer
+607,0,use mislead
+608,0,work multinational company
+609,0,accent color change
+610,0,currently windows blog comment system suffer myriad problem
+611,0,conversely disqus follow benefit
+612,0,blog post create discuss issue length read
+613,0,thank consideration dialogue idea
+614,0,ridiculous
+615,0,importantly developer need
+616,0,know hoop jump app simply photo network location ...
+617,0,crazy basic functionality currently support device planet support window phone
+618,0,important fact support uwp app run desktop laptop tablet
+619,0,file picker phone miss universal functionality ...
+620,0,difficulty test app purchase successful microsoft 's server app receive success message
+621,0,private test app use real money test iap
+622,0,hard test cost test perform
+623,1,prefer able test iap time attempt refund thousand dollar
+624,0,currently possible test use currentappsimulator
+625,0,apple google provide sandbox environment iap cost real money
+626,0,parent application store file app space
+627,0,wish open file launcher ask choose target application
+628,0,myapp file abc.pdf
+629,0,open file abc.pdf myapp launcher provide list application open file
+630,0,assume choose pdf reader want myapp know pdf reader close stop access file i.e abc.pdf
+631,0,code analysis warn expose properlty uri use string type ignore fair warning feel
+632,1,like system uri support natively runtime binding like
+633,0,note conversion str break throw exception bind string null string non valid uri throw
+634,0,pin system treat biometric device
+635,0,documentation indicate
+636,1,userconsentverifier treat pin biometric device
+637,0,right display online web page windows 10 webview hsts security feature work
+638,0,webview allow script source load page load https
+639,0,page test hsts mixed content
+640,0,need support io actual app lot problem
+641,0,like angularjs style
+642,0,old verbose
+643,0,unfortunately glyph activity display tile
+644,0,use glyph alarm alert attention properly display
+645,0,thank good regard
+646,0,migrate application windows 8.1 windows 10
+647,0,problem encountr winrt enable add service reference wcf uwp implement
+648,0,currently mixture tax collect ms pay developer
+649,0,small business huge effort theoretically possible
+650,0,far inform competition apple app store google play aswell
+651,0,ms use collect tax nowadays
+652,0,look old feature request quote old developer agreement
+653,0,state current member country european union include e.g.
+654,0,nowadays jan 13th 2016 dev agreements list austria country developer collect tax
+655,0,austria price select final sale price include applicable tax
+656,0,need app title bar background accent color
+657,0,windows 10 mobile mobile connection getsignalbar mobile connection return 5 bar display system value
+658,0,work wifi connection type connection windows 8.1
+659,0,bug change w10
+660,0,maxpath severe headache lately
+661,0,try compile stuff compiler necessarily create process enormous argument
+662,0,fine maxpath short let succeed
+663,0,reason switch linux position change maxpath rewrite way compiler process
+664,0,microsoft help
+665,0,generate binding code large easy follow
+666,0,exist compilation visible user vs
+667,1,need timeout read streamsocket like old .net socket serialport
+668,0,destroy complete connection device bluetooth serial connection respond
+669,0,sense
+670,0,wrong connection serial device respond
+671,0,javascript provide history api manipulation certain aspect browse history
+672,0,example history.replacestate replace url current website browse history
+673,0,possible detect change webview inject javascript replace funtion
+674,0,solution hacky lot work
+675,0,90 app find store
+676,0,40 app 8 visible
+677,0,click developer app
+678,0,deep link yes find app download find keyword app
+679,0,issue windows stores
+680,0,version windows app
+681,0,actually app appear disappear day later
+682,0,unacceptable strong deterrent create app windows
+683,0,phone 8.1 phone 10 windows 8 8.1 windows 10
+684,0,browser deployment excellent feature silverlight
+685,0,organization allow store app inconvenient deploy app app store reason
+686,0,firstly deployment app store require rigorous testing etc microsoft app user general public
+687,0,secondly version application deploy different customer
+688,1,read email access locally important create professional amazing app uwp app allow achieve
+689,0,need set code
+690,0,http request include post request(url body
+691,0,android ios
+692,0,change fullscreen position window wrong influence right
+693,0,find read property system comment file work windows 10
+694,0,use storagefile property getdocumentpropertiesasync read property file comment documentproperties comment string
+695,0,problem happen window explorer set new comment apply file read
+696,0,currently windows os decide good internet connection use automatically connection like wifi network cable
+697,0,uwp lag feature regular ado connect db
+698,0,use ef6/7 provide direct access sqllite regular db
+699,1,ms shall change ef7 allow db connectivity batch datum return like 50/100 return record time instead select return entire db table datum shot
+700,0,appear enter file select exist file use filesavepicker uwp mobile
+701,0,work expect desktop
+702,0,original question msdn forum
+703,0,winjs design prior es6
+704,0,capability provide es6 classs provide winjs
+705,0,edge browser vs 2015 vs code provide support es6
+706,0,unfortunately bug infest lack fundamental feature expect graphical debug tool 2015
+707,1,solution open source windbg related tool dbghlp windbg extension etc allow community fix improve small team microsoft manage
+708,0,moment impractical developer ask boss microsoft account create app package
+709,0,post 1st application window store 9 keyword
+710,0,eg publisher application word partial word
+711,0,app know totaly new clear situation
+712,0,scenario user save file app close directory delete rename time dlg save file
+713,0,currently difficult thing
+714,0,nesting uicontainers inside richtextblock add border element need ruin alignment text
+715,0,inexplicably uwp include wpf wrappanel introduce nearly 10 year ago
+716,0,panel uwp similar like wrapgrid work item variable size
+717,0,simple example wrappanel essential display tag cloud
+718,0,appear way deploy app windows 10 emulator outside manually visual studio
+719,0,mean wrap tooling launch install build app emulator
+720,0,oddly windows 8.1 tooling instal windows 10 sdk actually list windows 10 emulator list appdeploycmd output need post filtering separate 8.1 10 emulator
+721,0,currently use 8.1 tooling list emulator try deploy start app deployment fail
+722,0,today open windows dev account payout report find advertising purchased app separate
+723,0,happen
+724,0,develop app bizview google analytics client feature official google analytics app android store
+725,0,question bizview app question developer work hard
+726,0,diagnosis find issue cause api handle pdf file encrypt aes 256 encryption later acrobat version use
+727,0,drag drop file folder universal apps read attribute set impossible edit file folder
+728,0,drag drop conscious user interaction like picker happen knowledge
+729,0,api support configuration window background colour
+730,0,mean like groove music app use non white background noticable section white appear window drag new size
+731,0,link sway explain suggestion better
+732,0,sincerely hope difference
+733,0,unfortunately smartcard class smartcardprovision class related class provide means retrieve friendly later
+734,1,allow party apps manipulate dom element
+735,0,look return value ...
+736,0,windows system power energysaverstatus
+737,0,regardless threshold set energy saver setting
+738,0,look like bug
+739,0,use lumia 620 device windows 10 mobile build 10586.11
+740,0,look
+741,1,frustrate devoloper app is'nt category app find direct search
+742,0,release version app find number new user number exist user upgrade new app version dev center
+743,0,hope set app price 0.2
+744,0,currently way schedule recur notification use scheduledtoastnotification
+745,0,simply elegant solution ...
+746,0,win32 mac linux api 's uwp
+747,0,text editor unsaved change standard behavior ask user close
+748,0,possible uwp
+749,0,today run problem combobox control
+750,0,issue easily reproduce
+751,0,row column
+752,0,leave column space possible place combobox right column
+753,0,populate combobox item run app
+754,0,maximize window open combobox popup selection menu minimize popup middle window
+755,0,showat flyout size width define style
+756,0,showatasync flyout element pass parameter ignore style
+757,0,think bug
+758,1,prefer return boolean enum fail reason
+759,0,probably location outside camera frustum ...
+760,0,currently test return point inside rect size map actualwidth map actualheight
+761,0,point outside divide result rawpixelsperviewpixel
+762,0,point location near right corner map inside map offset 3190
+763,0,location slightly right return point 4810 instead 3210 divide factor 1.5 lumia 635
+764,0,setting page
+765,0,app work background
+766,0,download break app switch
+767,0,currently publisher choose signup publisher derive
+768,0,publisher use app package app localstorage folder
+769,0,careless signup stuck change publisher naming package
+770,0,super fast home button shortcut
+771,0,press key 2 locked screen 2 second phone profile change etc .... run application
+772,0,assign run application button locked screen ...
+773,0,assign run application screen region locked screen ...
+774,0,home automation huge market windows device
+775,0,big piece able monitor control ip cameras foscam hd camera
+776,0,right inspect server certificate request use requestmessage transportinformation
+777,0,unfortunately application wide certificate service website app include
+778,0,like problem popup overlap application bar
+779,0,strange open appbar partially cover
+780,0,observe bot desktop mobile uwp app
+781,0,description sample code find http://stackoverflow.com/q/33321971/2681948
+782,0,app choice 18 submit audit report feedback 18 audit failure
+783,0,example app allow user select time i.e tomorrow 1030
+784,0,user choose run everyday week etc
+785,0,feature available android hear iphone
+786,0,code set know header code result exception misused header
+787,0,company thousand use sketch develop app interface developer
+788,0,currently way display webview https web page invalid certificate user specific opt
+789,0,currently provision employee cod publish app easily know revenue earn
+790,0,earn chance leave start publish app
+791,0,apple google allow create user account release manager role access sale revenue report
+792,0,windows 10 mobile party app act caller id app intercept set phonecallorigin
+793,0,app access phonecallorigin phonecallhistoryentry
+794,0,develop coded ui test localized uwp app test dependent text localize
+795,0,control easily handle automationid corewindow messagebox incl button set automationid ’s coded ui test use title find element
+796,0,app phone desktop
+797,0,create universal app
+798,0,tab version small number user need upload new universal package phone version app
+799,0,problem app automatically reserve tab version package
+800,0,able associate application phone build store(because app reserve package package store
+801,0,resolve issue change phone build
+802,0,template button different rendering
+803,0,strange difference especially grids example crazy
+804,0,tell want detail mismatch
+805,0,develop application target windows phone 8.0
+806,0,xap deploy win10 mobile device strange bug
+807,0,instal app uninstall deploy application 's data stay remove unstall app
+808,0,retarget app windows pone 8.1 problem disappear
+809,0,barcode generate generate code image
+810,0,enter encode image mention decoder decode correctly
+811,0,enter encode image mention decoder decode …
+812,0,remote desktop services object windows store app longer available use windows 10 windows server 2016 technical preview
+813,0,negative review bad especially user rat old version app turn new user
+814,0,windows phone 8.0 silverlight time able content cameraroll faster medialibrary 1 second file
+815,0,extremely slow uap
+816,0,silverlight possible register app option edit picker photo hub https://msdn.microsoft.com/en-us/library/windows/apps/jj662932(v=vs.105).aspx
+817,0,possbile uap app
+818,0,option present desktop variant app miss mobile app
+819,0,equivalent winrt api messagedialog provide apparent mean copy message clipboard response right click response ctrl+c.
+820,0,thank attention
+821,0,win8 app store
+822,0,want beta test win10 version
+823,0,set app hide stop sell
+824,0,submit win10 version promo code
+825,0,watch app analytic far device win10 app intend update push regardless listing setting
+826,0,professional developer redesign company love word formal business invoice
+827,0,microsoft send money company business partner example outsource center use credit card payment
+828,0,like
+829,0,input node
+830,0,appreciated
+831,0,app search 10 app pop app
+832,0,chat support tell generic
